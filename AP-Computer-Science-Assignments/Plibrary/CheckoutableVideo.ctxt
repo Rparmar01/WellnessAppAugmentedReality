@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=CheckoutableVideo()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ CheckoutableVideo\r\n
+comment1.params=book
+comment1.target=java.lang.String\ checkout(java.lang.String)
+comment1.text=\r\n\ An\ example\ of\ a\ method\ -\ replace\ this\ comment\ with\ your\ own\r\n\ \r\n\ @param\ \ y\ \ \ a\ sample\ parameter\ for\ a\ method\r\n\ @return\ \ \ \ \ the\ sum\ of\ x\ and\ y\ \r\n
+comment2.params=bookName
+comment2.target=boolean\ isCheckedOut(java.lang.String)
+comment3.params=name\ date
+comment3.target=void\ checkin(java.lang.String,\ java.lang.String)
+comment4.params=title
+comment4.target=boolean\ availability(java.lang.String)
+comment5.params=name
+comment5.target=java.lang.String\ whocheckedout(java.lang.String)
+comment6.params=out
+comment6.target=java.lang.String\ datecheckedout(boolean)
+comment7.params=out
+comment7.target=java.lang.String\ dueout(boolean)
+numComments=8

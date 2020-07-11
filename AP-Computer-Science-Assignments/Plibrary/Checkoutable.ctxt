@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=book
+comment0.target=java.lang.String\ checkout(java.lang.String)
+comment1.params=name\ date
+comment1.target=void\ checkin(java.lang.String,\ java.lang.String)
+comment2.params=bookName
+comment2.target=boolean\ isCheckedOut(java.lang.String)
+comment3.params=title
+comment3.target=boolean\ availability(java.lang.String)
+comment4.params=name
+comment4.target=java.lang.String\ whocheckedout(java.lang.String)
+comment5.params=out
+comment5.target=java.lang.String\ datecheckedout(boolean)
+comment6.params=out
+comment6.target=java.lang.String\ dueout(boolean)
+numComments=7

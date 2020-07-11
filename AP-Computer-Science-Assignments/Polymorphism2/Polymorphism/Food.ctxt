@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.params=nam\ cals\ prc
+comment0.target=Food(java.lang.String,\ java.lang.String,\ int)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Food\r\n
+comment1.params=
+comment1.target=java.lang.String\ getName()
+comment2.params=a
+comment2.target=void\ setName(java.lang.String)
+comment3.params=
+comment3.target=double\ getYValue()
+comment4.params=a
+comment4.target=void\ setYValue(double)
+comment5.params=
+comment5.target=java.lang.String\ getXLabel()
+comment6.params=a
+comment6.target=void\ setXLabel(java.lang.String)
+comment7.params=
+comment7.target=java.lang.String\ getYLabel()
+comment8.params=
+comment8.target=void\ setYLabel()
+numComments=9

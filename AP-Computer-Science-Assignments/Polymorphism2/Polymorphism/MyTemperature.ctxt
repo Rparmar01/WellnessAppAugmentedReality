@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=MyTemperature()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ MyClass\r\n
+comment1.params=
+comment1.target=double\ getYValue()
+comment2.params=
+comment2.target=java.lang.String\ getXLabel()
+comment3.params=
+comment3.target=java.lang.String\ getYLabel()
+numComments=4

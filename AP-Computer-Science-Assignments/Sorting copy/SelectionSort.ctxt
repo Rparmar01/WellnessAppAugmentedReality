@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+comment0.text=public\ static\ void\ selectionSort(ArrayList<Comparable>\ list)\n\ \ {\n\ \ \ \ \ \ \ \ for(\ int\ i\:\ list\ )\n\ \ \ \ \ \ \ \ \ {\n\ \ \ \ \ \ \ \ \ \ \ \ \ \n\ \ \ \ \ \ \ \ \ \ \ \ \ if\ ()\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ {\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \n\ \ \ \ \ \ \ \ \ \ \ \ \ \ }\n\ \ \ \ \ \ \ \ \ \ }\n\ \ \ \ \ \ \ \ return\ list;\n}
+numComments=1

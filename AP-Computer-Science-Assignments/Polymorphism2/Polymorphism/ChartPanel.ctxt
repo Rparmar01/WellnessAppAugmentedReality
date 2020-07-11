@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=c
+comment0.target=ChartPanel(java.util.ArrayList)
+comment0.text=\r\n\ Constructor\ that\ accepts\ a\ list\ of\ Chartable\ objects.\r\n\ @param\ c\ the\ list\ of\ Chartables\r\n
+comment1.params=g
+comment1.target=void\ paintComponent(java.awt.Graphics)
+comment1.text=\ (non-Javadoc)\r\n\ @see\ javax.swing.JComponent\#paintComponent(java.awt.Graphics)\r\n
+numComments=2
